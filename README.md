@@ -12,4 +12,4 @@
 - Databases: PostgreSQL, Supabase
 - Tools: Heroku, Netlify, Git, GitHub, VSCode, Miro, Slack
 - Testing: QUnit, Jest, React Testing Library
-- Dev Practices: TDD, Pair Programming, Mob Programming
+- Dev Practices: TDD, Agile Workflow, Remote Development, Pair Programming, Mob Programming
