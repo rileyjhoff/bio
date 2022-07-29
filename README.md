@@ -2,7 +2,6 @@
 
 - Pronouns: He/Him
 - Full Stack Software Developer and Sports Enthusiast
-- Currently learning Express, Node.js, and PostgreSQL
 - You can reach me at rileyjhoff@gmail.com or https://www.linkedin.com/in/riley-j-hoffman/
 
 ## Tech Stack
